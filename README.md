@@ -2,3 +2,7 @@
 a training project- nothing to do with real world
 
 First steps into versioning
+
+Klemen, Reli, Runo
+
+Kokice
